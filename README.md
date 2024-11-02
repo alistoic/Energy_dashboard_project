@@ -13,7 +13,7 @@ This is an interactive web application built with Dash and Plotly to visualize g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/alistoic/Energy_dashboard_project.git
    cd your-repository-name
    ```
 
